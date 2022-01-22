@@ -1,0 +1,15 @@
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.exe
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.deps.json
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.runtimeconfig.json
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\ref\DigitalinnovationOne.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.pdb
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.AssemblyReference.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfoInputs.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfo.cs
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.CoreCompileInputs.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\ref\DigitalinnovationOne.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.pdb
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.genruntimeconfig.cache
