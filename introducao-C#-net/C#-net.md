@@ -1,5 +1,5 @@
 
-# introdução ao c# e .net
+# introdução ao c sharp 
 
 * namespace
 Os namespace são usados para organizar classes.
@@ -19,4 +19,18 @@ Declara um conjunto de constantes nomeadas que começasm do 0 e aumenta de 1 em 
 * debugging
 a depuração pode ser feita colocando um breakpoint no canto esquerdo do codigo ou apertando o f9 e executando ele.
 o codigo vai parar aonde foi colocado o breakpoint e então o codigo poderá ser inspecionado.
+
+## Estrutura de progama!
+
+Progamas C sharp consistem em um ou mais arquivos.
+Os progamas declarados tipos, que contem membros e podem ser organizados em namespaces.
+
+Classes e interfaces são exemplos de tipos.
+
+Campos, metodos, propriedades e eventos são exemplos de membros.
+
+Quando os progamas C sharps são 
+compilados, eles são fisicamente empacotados emasmbleies.
+
+Os assemblies, geralmente tem a extensão de arquivo .exe ou dll, dependendo se são aplicações ou bibliotecas.
 
