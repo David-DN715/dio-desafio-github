@@ -34,3 +34,19 @@ compilados, eles são fisicamente empacotados emasmbleies.
 
 Os assemblies, geralmente tem a extensão de arquivo .exe ou dll, dependendo se são aplicações ou bibliotecas.
 
+* Tipos e variaveis
+
+Variaveisde tipos de valor contem diretamente seus dados.
+
+as variaveis tem sua prorpia copia dos dadose não épossivel que as operações afetem outra variavel(exeto no caso das variaveis de parametro ref e out).
+
+tipos:
+
+Numericos: sbytes, shiirt,int,long, byte, ushort, uint, ulong.
+
+caracteres Unicode: char.
+
+Pontos flutuantes:float, double, decimal.
+
+booleano: bool, enum, struct e tipos nullable (Exemplo int(?)).
+
