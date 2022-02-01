@@ -1,0 +1,15 @@
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.csproj.AssemblyReference.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.AssemblyInfoInputs.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.AssemblyInfo.cs
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.csproj.CoreCompileInputs.cache
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\codando_junto.exe
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\codando_junto.deps.json
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\codando_junto.runtimeconfig.json
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\codando_junto.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\ref\codando_junto.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\bin\Debug\net6.0\codando_junto.pdb
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\ref\codando_junto.dll
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.pdb
+C:\dio-github-desafio\dio-desafio-github\introducao-C#-net\DigitalinnovationOne\codando_junto\obj\Debug\net6.0\codando_junto.genruntimeconfig.cache
