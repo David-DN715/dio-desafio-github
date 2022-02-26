@@ -7,9 +7,16 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            Retangulo r = new Retangulo();
-            r.DefinirMedida(30, 30);
-            Console.WriteLine($"Àrea: {r.ObterArea()}");
+            Aluno p1 = new Aluno();
+            p1.Nome = "Bob";
+            p1.Idade = 20;
+            p1.Nota = 7;
+            
+            
+            
+            // Retangulo r = new Retangulo();
+            // r.DefinirMedida(30, 30);
+            // Console.WriteLine($"Àrea: {r.ObterArea()}");
             
             
             
